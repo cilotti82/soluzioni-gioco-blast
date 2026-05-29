@@ -1,4 +1,4 @@
-const CACHE_NAME = "block-blast-solver-v3";
+const CACHE_NAME = "block-blast-solver-v4";
 const APP_ASSETS = ["./", "./index.html", "./manifest.webmanifest", "./icon.svg"];
 
 self.addEventListener("install", event => {
